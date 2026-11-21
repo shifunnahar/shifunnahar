@@ -15,7 +15,6 @@
 > 🎓 First-year BSc student in **Nutrition and Food Engineering** at **Daffodil International University**, Bangladesh<br>
 > 🔬 Interested in **public health nutrition** and **food safety**<br>
 > 🎨 Amateur artist who loves drawing and painting<br>
-> 🎯 Dreaming of a **PhD** in food science or nutrition
 
 ### 🌱 Currently growing
 
