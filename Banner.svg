@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a9bda8"/>
+      <stop offset="1" stop-color="#173d32"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0H1200V200C1000 250 820 170 600 205C380 240 200 175 0 215Z" fill="url(#g)"/>
+  <path d="M0 215C200 175 380 240 600 205C820 170 1000 250 1200 200V214C1000 262 820 182 600 218C380 252 200 190 0 228Z" fill="#c99b55" opacity=".55"/>
+  <circle cx="1080" cy="60" r="70" fill="#ffffff" opacity=".06"/>
+  <circle cx="140" cy="170" r="40" fill="#ffffff" opacity=".07"/>
+  <text x="600" y="108" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="600" fill="#ffffff">Shifun Nahar Oishy</text>
+  <text x="600" y="152" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" letter-spacing="3" fill="#e7eee4">NUTRITION &amp; FOOD ENGINEERING · DAFFODIL INTERNATIONAL UNIVERSITY</text>
+</svg>
