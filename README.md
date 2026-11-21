@@ -1,4 +1,4 @@
-<img src="./banner.svg" width="100%" alt="Shifun Nahar Oishy" />
+<img src="Banner.svg" width="100%" alt="Shifun Nahar Oishy" />
 
 <p align="center"><i>Curious about food, health and science 🌱 · Future researcher in nutrition 🔬 · Artist at heart 🎨</i></p>
 
